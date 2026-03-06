@@ -6,7 +6,7 @@ This repository contains the Software Requirements Specification (SRS) for Cinem
 
 ## Download
 The full SRS can be downloaded below:
-**[CinemaCore Systems SRS](./Software Requirements Specification.docx)**
+**[CinemaCore Systems SRS](Software Requirements Specification.pdf)**
 
 ---
 
