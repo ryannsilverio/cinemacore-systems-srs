@@ -11,7 +11,7 @@ Download the SRS below:
 
 Download the test plan below:
 
-**[CinemaCore Systems - Test Plan.pdf]**
+**[CinemaCore Systems - Test Plan.pdf](https://github.com/ryannsilverio/cinemacore-systems-srs/blob/356124403b1f1de5182db6a29f8987a560019f40/Test%20Plan.pdf)**
 
 ---
 
