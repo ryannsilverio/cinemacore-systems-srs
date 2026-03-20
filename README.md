@@ -7,11 +7,11 @@ This repository contains the Software Requirements Specification (SRS) for Cinem
 ## Download
 Download the SRS below:
 
-**[CinemaCore Systems - Software Requirements Specification.pdf](https://github.com/ryannsilverio/cinemacore-systems-srs/blob/63037459cef751bb404d2a0adaeb0767d49e3b1c/Software%20Requirements%20Specification.pdf)**
+**[CinemaCore Systems - Software Requirements Specification.pdf](https://github.com/ryannsilverio/cinemacore-systems-srs/blob/5e364d9a6d092daf80b3328795eea96ade1cc8ad/Software%20Requirements%20Specification.pdf)**
 
 Download the test plan below:
 
-**[CinemaCore Systems - Test Plan.pdf](https://github.com/ryannsilverio/cinemacore-systems-srs/blob/356124403b1f1de5182db6a29f8987a560019f40/Test%20Plan.pdf)**
+**[CinemaCore Systems - Test Plan.pdf](https://github.com/ryannsilverio/cinemacore-systems-srs/blob/5e364d9a6d092daf80b3328795eea96ade1cc8ad/Test%20Plan.pdf)**
 
 ---
 
